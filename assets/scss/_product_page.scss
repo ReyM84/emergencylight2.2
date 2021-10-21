@@ -1,0 +1,56 @@
+#body > div.header-container.sticky-header,
+#product-images-container
+  > div.main-image-container
+  > div.productImageSlider.slider-for.slick-initialized.slick-slider.ready
+  > div,
+#product-images-container
+  > div.slider-nav.slick-initialized.slick-slider
+  > div
+  > div
+  > div.slick-slide.slick-active.last
+  > div,
+#product-images-container
+  > div.main-image-container
+  > div.productImageSlider.slider-for.slick-initialized.slick-slider.ready
+  > div
+  > div
+  > div.slick-slide.slick-current.slick-active
+  > div
+  > li,
+#carousel-active > div > ul > section > div > div,
+#carousel-active > div > ul > section > div > div > li,
+#product-images-container
+  > div.slider-nav.slick-initialized.slick-slider
+  > div
+  > div
+  > div.slick-slide.slick-current.slick-active
+  > div {
+  background: white !important;
+}
+
+#product-page-no-sidenav
+  > div.productView.thumbnail-unclicked.qty-box-visible
+  > article
+  > ul
+  > li.tab.warranty,
+#body
+  > div.body.content
+  > div
+  > div.recommended-visibility
+  > div.product.main.left.no-sidenav
+  > div
+  > div
+  > div.similar-products-by-views
+  > h2,
+#carousel-active > div > h2 {
+  background: $primaryRed !important;
+  border-bottom: 3px solid $bottomBorder !important;
+}
+
+#product-page-no-sidenav
+  > div.productView.thumbnail-unclicked.qty-box-visible
+  > article
+  > ul
+  > li.tab.overview {
+  background: $primaryRed !important;
+}

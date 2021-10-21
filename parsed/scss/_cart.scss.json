@@ -1,0 +1,1 @@
+{"_cart.scss":".cart-item {\n    padding: 2rem;\n   }\n   \n#body > div.body.content > div.container.main > div > main > div.cart-actions > a {\n     background: #b1130c;\n   }\n\n"}
